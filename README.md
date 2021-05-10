@@ -14,13 +14,13 @@
 <br />
 <br />
 
-Hi, I'm Anmol Sharma, an CSE Undergraduate Student from IIIT Naya Raipur 🚀,India. I am currently working as Research Intern 🙍🏽‍♂️ at [University of Calgary, Canada](https://www.ucalgary.ca/). I have also worked as a Technical Intern at [GeeksforGeeks](https://www.geeksforgeeks.org/) .
+Hi, I'm Anmol Sharma, a Senior CSE Undergrad from IIIT Naya Raipur 🚀,India. I am currently working as Research Intern 🙍🏽‍♂️ at [University of Calgary, Canada](https://www.ucalgary.ca/). I have also worked as a Technical Intern at [GeeksforGeeks](https://www.geeksforgeeks.org/) .
 
-Beside's developing stuff, I enjoy listening music 🎧, reading blogs📚, and traveling 🏝️🗻.
+Beside's developing stuff, I enjoy listening music 🎧, reading blogs📚, and travelling 🏝️🗻.
 
 <img align="right" alt="GIF" width="500" height="300" src="https://media.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif" />
 
-**Let's talk about me:**
+**Let's know about me:**
 
 - 👨🏽‍💼 I’m currently working as Head Placement Coordinator at [IIIT Naya Raipur,India](https://www.iiitnr.ac.in/)
 
