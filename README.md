@@ -18,7 +18,7 @@ Hi, I'm Anmol Sharma, a Senior CSE Undergrad from IIIT Naya Raipur 🚀,India. I
 
 Beside's developing stuff, I enjoy listening music 🎧, reading blogs📚, and travelling 🏝️🗻.
 
-<img align="right" alt="GIF" width="500" height="300" src="https://media.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif" />
+<img align="right" alt="GIF" width="500" height="300" src="https://github.com/anmolsharma16/anmolsharma16/blob/master/giphy.webp" />
 
 **Let's know about me:**
 
