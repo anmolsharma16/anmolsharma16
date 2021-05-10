@@ -22,15 +22,15 @@ Beside's developing stuff, I enjoy listening music 🎧, reading blogs📚, and 
 
 **Let's talk about me:**
 
-- 🔭 I’m currently working as Head Placement Coordinator at [IIIT Naya Raipur,India](https://www.iiitnr.ac.in/)
+- 👨🏽‍💼 I’m currently working as Head Placement Coordinator at [IIIT Naya Raipur,India](https://www.iiitnr.ac.in/)
 
--  🏅Hult Prize Regional Finalist'21
+- 🏅 Hult Prize Regional Finalist'21
 
 - 🏆 Mitacs GRI Scholar(https://www.mitacs.ca/en)
 
-- 👨‍💻 Research Intern @ [University of Calgary, Canada](https://www.ucalgary.ca/)
+- 💻 Research Intern @ [University of Calgary, Canada](https://www.ucalgary.ca/)
 
-- 🤝 I have also worked as a Technical Content Writer at [GeeksforGeeks](https://www.geeksforgeeks.org/)
+- 👨‍💻 Technical Content Writer at [GeeksforGeeks](https://www.geeksforgeeks.org/)
 
 - 💬 Ask me about **Data Structures, Algorithms, Core Computer Science etc.**
 
