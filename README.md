@@ -1,20 +1,42 @@
-(p align="left")(img src="https://komarev.com/ghpvc/?username=k...​" alt="anmolsharma16" /)(/p)
-<h1 align="center">Hi 👋, This is Anmol Sharma</h1>
-<h3 align="center">A passionate Computer Science Undergrad from IIIT Raipur,India.</h3>
 
-- 🔭 I’m currently working as a Research Intern at University of Calgary,Canada on **Smart Route Recommendation System for Transporting Goods in Extreme Weather.**
+### Hey 👋, This is Anmol!
 
-- 🌱 I’m currently exploring **Machine Learning, Deep Learning and Backend Development.**
+<a href="https://twitter.com/Anmol_Sharmalbs/">
+  <img align="center" alt="Anmol's Twitter | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+</a>
+<a href="https://www.linkedin.com/in/anmolsharmalbs/">
+  <img align="center" alt="Anmol's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a href="https://www.instagram.com/anmol.sharma99/">
+  <img align="center" alt="Anmol's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+</a>
 
-- 🤝 I have also worked as a Technical Content Writer at **GeeksforGeeks.**
+<br />
+<br />
 
-- 📝 I regularly write articles on [GeeksforGeeks](GeeksforGeeks)
+Hi, I'm Anmol Sharma, an CSE Undergraduate Student from IIIT Naya Raipur 🚀,India. I am currently working as Research Intern 🙍🏽‍♂️ at [University of Calgary, Canada](https://www.ucalgary.ca/). I have also worked as a Technical Intern at [GeeksforGeeks](https://www.geeksforgeeks.org/) .
+
+Beside's developing stuff, I enjoy listening music 🎧, reading blogs📚, and traveling 🏝️🗻.
+
+<img align="right" alt="GIF" width="500" height="300" src="https://media.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif" />
+
+**Let's talk about me:**
+
+- 🔭 I’m currently working as Head Placement Coordinator at [IIIT Naya Raipur,India](https://www.iiitnr.ac.in/)
+
+-  🏅Hult Prize Regional Finalist'21
+
+- 🏆 Mitacs GRI Scholar(https://www.mitacs.ca/en)
+
+- 👨‍💻 Research Intern @ [University of Calgary, Canada](https://www.ucalgary.ca/)
+
+- 🤝 I have also worked as a Technical Content Writer at [GeeksforGeeks](https://www.geeksforgeeks.org/)
 
 - 💬 Ask me about **Data Structures, Algorithms, Core Computer Science etc.**
 
-- 📫 Reach me at : **anmolsharmalbs@gmail.com**
+- 📫 How to reach me: anmolsharmalbs@gmail.com
 
-- ⚡ Random fact: **I have a long travel bucket list XD.**
+- ⚡ Random fact: **I have a long travel bucket list XD**
 
 
 <h3 align="left">Languages and Tools:</h3>
