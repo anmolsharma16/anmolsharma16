@@ -17,7 +17,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/anmol_sharmalbs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/twitter.svg" alt="anmol_sharmalbs" height="30" width="40" /></a>
+<a href="https://twitter.com/anmol_sharmalbs" target="blank"><img align="center" src="https://www.google.com/search?q=twitter+icon&sxsrf=ALeKk01IHB73sa20hHNGVrCLQYsMohHoeg:1620669384916&tbm=isch&source=iu&ictx=1&fir=r3Wvn65eUjf9gM%252CcP6cF6ziVZsUkM%252C_&vet=1&usg=AI4_-kSxOBdjIeXS4freYhOQdtjYoVAM5A&sa=X&ved=2ahUKEwjdwPH317_wAhWxheYKHWzwC3gQ9QF6BAgTEAE&biw=1366&bih=663#imgrc=r3Wvn65eUjf9gM" alt="anmol_sharmalbs" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/anmolsharmalbs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/linked-in-alt.svg" alt="anmolsharmalbs" height="30" width="40" /></a>
 <a href="https://instagram.com/anmol.sharma99" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/instagram.svg" alt="anmol.sharma99" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/anmolsharmalbs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/geeks-for-geeks.svg" alt="anmolsharmalbs" height="30" width="40" /></a>
